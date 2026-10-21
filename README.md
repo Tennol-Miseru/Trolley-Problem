@@ -3,7 +3,9 @@ A Minecraft NeoForge mod featuring trolley dilemmas, drivable trains, chaotic mu
 # Trolley Problem | 电车难题
 
 **Minecraft 1.21.1 · NeoForge · Java 21**
-
+<p align="center">
+  <img src="src/main/resources/trolleyICON.png" alt="Trolley Problem" width="400">
+</p>
 > 前方有一辆失控的电车。你有两个选择：拉杆，或者再召唤一辆电车。
 >
 > There's a runaway trolley ahead. You have two choices: pull the lever, or summon another trolley.
@@ -41,7 +43,6 @@ A Minecraft NeoForge mod featuring trolley dilemmas, drivable trains, chaotic mu
 - Java 21
 - 多人游戏需要客户端和服务器均安装本模组
 
-**本模组不支持 Fabric。**
 
 ## 开发与编译 | Building
 
@@ -60,3 +61,63 @@ A Minecraft NeoForge mod featuring trolley dilemmas, drivable trains, chaotic mu
 ---
 
 *温馨提示：本模组不提供伦理学标准答案，也不保证任何乘客和受害者的情绪稳定。*
+
+
+Trolley Problem
+
+Minecraft 1.21.1 | NeoForge | r22.8.1
+
+There is a runaway trolley ahead. You have two choices: pull the lever, or summon another trolley.
+
+Trolley Problem turns the classic philosophical thought experiment into a completely unreasonable Minecraft adventure. Face moral dilemmas, summon dangerously enthusiastic trains, drive your own trolley, challenge your friends to bumper-trolley battles, and explore a mysterious white railway dimension.
+
+Features
+
+Eight Trolley Dilemmas
+
+Encounter randomized scenarios featuring villagers, cats, wolves, creepers, doctors, criminals, children, and even a librarian selling Mending enchanted books.
+
+You have 15 seconds to choose which track the trolley will take. Your decisions determine who survives.
+
+The Mending librarian features a real guaranteed trade: 20 emeralds and 1 book for a Mending I enchanted book.
+
+Summon and Drive Trolleys
+
+Use different trolley levers to unleash high-speed trains, launch enemies into the air, or summon a wild trolley that seeks nearby targets.
+
+Take control of your own trolley with the Steering Wheel. Accelerate, steer, and switch between normal driving and Launch Mode.
+
+Multiplayer Bumper Trolleys
+
+Crash player-driven trolleys into each other in explosive PvP battles. Each vehicle has 40 durability points. Collisions send both vehicles flying apart and gradually wear them down.
+
+The last trolley standing wins. Explosions are visual-only and do not destroy terrain.
+
+The White Terminal
+
+Collect Trolley Blocks from destroyed trains and build a portal to an eerie white dimension featuring railway stations, city structures, passing trains, and mysterious announcements.
+
+The Supreme Trolley Boss
+
+Challenge an enormous trolley with charging attacks, leap slams, spinning attacks, and trolley dilemmas between battle phases.
+
+Defeat it to obtain the legendary Supreme Lever — a plunger capable of summoning a giant trolley from the sky.
+
+A Bioethicist Who Has Opinions
+
+Summon a special villager who comments on the accidents happening around him. Ethical advice is not guaranteed.
+
+Installation
+
+Minecraft Java Edition 1.21.1
+
+NeoForge (developed against 21.1.244)
+
+Java 21
+
+Install on both client and server for multiplayer
+
+
+Warning: This mod does not provide correct answers to ethical dilemmas, nor does it guarantee the emotional stability of any passengers or victims.
+
+License: All Rights Reserved.
