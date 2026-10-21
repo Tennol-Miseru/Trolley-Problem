@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "mod_e539c988:trolley_lever"
+    },
+    "title": {
+      "translate": "advancements.mod_e539c988.classic_problem.title"
+    },
+    "description": {
+      "translate": "advancements.mod_e539c988.classic_problem.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "triggered": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "triggered"
+    ]
+  ],
+  "parent": "mod_e539c988:root"
+}

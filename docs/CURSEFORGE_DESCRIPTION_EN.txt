@@ -1,0 +1,100 @@
+TROLLEY PROBLEM
+Minecraft 1.21.1 | NeoForge | Version r22.8.1
+
+There is a runaway trolley ahead. You have two choices:
+Pull the lever... or summon another trolley.
+
+Trolley Problem turns a classic philosophical thought experiment into a completely unreasonable Minecraft adventure. Face split-second moral decisions, summon dangerously enthusiastic trains, drive your own trolley, challenge friends to bumper-trolley battles, and discover a strange white railway dimension ruled by a giant boss.
+
+WARNING: This mod does not provide correct answers to ethical dilemmas, nor does it guarantee the emotional stability of its passengers or victims.
+
+
+FEATURES
+
+EIGHT TROLLEY DILEMMAS
+Find randomized railway scenarios or spawn a specific one with commands. Once someone approaches, a 15-second countdown begins. Flip the switch to select the track:
+- Lever ON: red track
+- Lever OFF: green track
+The train follows the selected route when the countdown ends.
+
+Scenarios include:
+- The classic choice: one villager versus five
+- One cat versus five villagers
+- One wolf versus five villagers
+- One wolf versus five cats
+- One creeper versus five villagers
+- One doctor versus five murderers
+- One child versus five adults
+- One Mending librarian versus five ordinary villagers
+
+The Mending librarian has a real, guaranteed trade: 20 emeralds + 1 book for a Mending I enchanted book. If the librarian survives, you may still trade with them.
+
+Complete dilemmas to earn rewards. At 3 completed scenarios you receive a Trolley Steering Wheel, at 5 a Trolley Lever, and at 10 a Wild Lever. Then the reward cycle starts again.
+
+TRAINS, LEVERS, AND QUESTIONABLE TRANSPORTATION
+- Trolley Lever: summon a fast, dangerous trolley.
+- Wild Lever: unleash a trolley that seeks nearby targets.
+- Launch Trolley Lever: send mobs and players flying with dramatic knockback, effects, and 8 points of base damage (4 hearts before armor).
+- Trolley Steering Wheel: summon and immediately drive your own trolley.
+- Bioethicist Spawn Egg: introduce a villager who has opinions about everything that happens on the tracks.
+- Supreme Lever (Plunger): call down a giant trolley from above after defeating the boss.
+
+While holding a trolley-summoning lever or steering wheel, sneak + right-click BEFORE summoning to toggle between block-phasing "Void" mode and gravity/collision-enabled "Physical" mode.
+
+DRIVE YOUR OWN TROLLEY
+W/S: accelerate and reverse
+A/D: steer
+V: switch between Launch Mode and Normal Driving
+Shift: dismount
+
+Driving starts in Launch Mode by default. The V key can be rebound in Minecraft's Controls menu. A driven trolley becomes silent when stationary and disappears after 15 seconds without a driver.
+
+MULTIPLAYER BUMPER TROLLEYS
+Two player-driven trolleys can crash into each other. Impacts create explosions and sparks, push both vehicles apart, and reduce their durability. Each trolley starts with 40 durability points. When a trolley reaches zero, it explodes in a visual-only effect, safely ejecting its driver. These vehicle explosions do not destroy the terrain.
+
+Normal destroyed trolleys and bumper-trolley knockouts drop 14 Trolley Blocks, which can be used to build a dimensional portal.
+
+THE WHITE TERMINAL
+Build a 4-block-wide, 5-block-tall portal frame from 14 Trolley Blocks and light the interior with flint and steel. Alternatively, craft a Blank Ticket from one paper surrounded on its four sides by iron nuggets.
+
+Explore an eerie white dimension with railway tracks, stations, announcements, city structures, passing trains, and a huge trolley boss.
+
+THE SUPREME TROLLEY BOSS
+Challenge a massive trolley with high-speed charges, double rushes, tracking attacks, leap slams, and spinning charges. Its maximum health scales with the number of nearby players, up to 500 HP. Between phases, the boss interrupts the battle with trolley dilemmas of its own.
+
+Defeat it to earn the Supreme Lever (Plunger) and a Blank Ticket. The plunger summons a giant falling trolley with a short cooldown.
+
+
+COMMANDS
+
+/trolleyproblem spawn                 Random dilemma (operator permission required)
+/trolleyproblem spawn classic
+/trolleyproblem spawn cat
+/trolleyproblem spawn dog
+/trolleyproblem spawn pets
+/trolleyproblem spawn creeper
+/trolleyproblem spawn criminal
+/trolleyproblem spawn child
+/trolleyproblem spawn mending
+/trolleyproblem progress              Check your reward-cycle progress
+/trolleyproblem enter                 Enter the White Terminal from the Overworld
+/trolleyproblem leave                 Return from the White Terminal
+
+The old "mayor" dilemma has been replaced by "mending".
+
+
+INSTALLATION AND COMPATIBILITY
+
+Minecraft: Java Edition 1.21.1
+Mod loader: NeoForge (developed against NeoForge 21.1.244)
+Java: 21
+Mod ID: mod_e539c988
+
+Install the mod JAR in the mods folder. For multiplayer, use matching versions of the mod on both the server and all participating clients, and keep your NeoForge versions aligned. Remove older JARs for the same mod ID, and back up your worlds before upgrading.
+
+This is a NeoForge release, NOT a Fabric mod. Actual damage can be affected by armor and other game mechanics. Some features may require open space or an eligible dimension.
+
+Have fun, drive irresponsibly (in Minecraft), and remember:
+The trolley has no opinion on your moral philosophy.
+
+License status: All Rights Reserved.

@@ -1,0 +1,22 @@
+{
+  "type": "mod_e539c988:white_terminal",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "mod_e539c988:white_terminal",
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 1
+        },
+        {
+          "block": "minecraft:white_concrete",
+          "height": 63
+        }
+      ],
+      "structure_overrides": [],
+      "lakes": false,
+      "features": false
+    }
+  }
+}

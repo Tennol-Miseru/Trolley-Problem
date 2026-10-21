@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "mod_e539c988:wild_lever"
+    },
+    "title": {
+      "translate": "advancements.mod_e539c988.ten_trials.title"
+    },
+    "description": {
+      "translate": "advancements.mod_e539c988.ten_trials.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "triggered": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "triggered"
+    ]
+  ],
+  "parent": "mod_e539c988:first_experiment"
+}

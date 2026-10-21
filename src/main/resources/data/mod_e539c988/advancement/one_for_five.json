@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:emerald"
+    },
+    "title": {
+      "translate": "advancements.mod_e539c988.one_for_five.title"
+    },
+    "description": {
+      "translate": "advancements.mod_e539c988.one_for_five.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "triggered": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "triggered"
+    ]
+  ],
+  "parent": "mod_e539c988:first_experiment"
+}

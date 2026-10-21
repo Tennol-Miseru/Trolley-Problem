@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " I ",
+    "IPI",
+    " I "
+  ],
+  "key": {
+    "I": "minecraft:iron_nugget",
+    "P": "minecraft:paper"
+  },
+  "result": {
+    "id": "mod_e539c988:white_ticket",
+    "count": 1
+  }
+}

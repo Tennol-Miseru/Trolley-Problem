@@ -1,0 +1,31 @@
+{
+  "render_type": "minecraft:translucent",
+  "textures": {
+    "0": "mod_e539c988:block/trolley_portal",
+    "particle": "mod_e539c988:block/trolley_portal"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        7
+      ],
+      "to": [
+        16,
+        16,
+        9
+      ],
+      "faces": {
+        "north": {
+          "texture": "#0",
+          "tintindex": 0
+        },
+        "south": {
+          "texture": "#0",
+          "tintindex": 0
+        }
+      }
+    }
+  ]
+}

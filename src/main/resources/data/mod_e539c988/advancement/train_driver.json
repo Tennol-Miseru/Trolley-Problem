@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "mod_e539c988:trolley_steering_wheel"
+    },
+    "title": {
+      "translate": "advancements.mod_e539c988.train_driver.title"
+    },
+    "description": {
+      "translate": "advancements.mod_e539c988.train_driver.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "triggered": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "triggered"
+    ]
+  ],
+  "parent": "mod_e539c988:root"
+}

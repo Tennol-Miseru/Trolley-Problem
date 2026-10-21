@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "mod_e539c988:block/trolley_portal"
+    },
+    "axis=z": {
+      "model": "mod_e539c988:block/trolley_portal",
+      "y": 90
+    }
+  }
+}

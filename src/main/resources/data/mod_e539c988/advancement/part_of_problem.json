@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:skeleton_skull"
+    },
+    "title": {
+      "translate": "advancements.mod_e539c988.part_of_problem.title"
+    },
+    "description": {
+      "translate": "advancements.mod_e539c988.part_of_problem.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "triggered": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "triggered"
+    ]
+  ],
+  "parent": "mod_e539c988:classic_problem"
+}
